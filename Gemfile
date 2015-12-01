@@ -23,6 +23,13 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+# Use Bootstrap to conduct the front-end design
+gem 'bootstrap-sass'
+# Use Simple_Form to facilitate the bootstrap
+gem 'simple_form'
+# Use AngularJS as JavaScript frame
+gem 'angularjs-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
