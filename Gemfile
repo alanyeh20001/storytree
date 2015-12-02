@@ -29,6 +29,8 @@ gem 'bootstrap-sass'
 gem 'simple_form'
 # Use AngularJS as JavaScript frame
 gem 'angularjs-rails'
+# Use devise to set up user function
+gem 'devise'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
